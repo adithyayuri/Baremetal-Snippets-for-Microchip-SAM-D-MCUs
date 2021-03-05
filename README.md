@@ -1,2 +1,2 @@
-# SAM-D21-D20-Baremetal-Snippets
+# Baremetal Snippets for Microchip SAM D MCUs
 BareMetal Snippets for SAM D2X series of microcontrollers from Microchip
