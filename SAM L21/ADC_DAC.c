@@ -2,10 +2,9 @@
  * Author: Adithya Yuri
  *
  * Baremetal code for ADC and DAC peripherals
- * Signal on PA03(ADC) is mirrored to PA02(DAC) pin
  *
- * Signal IN: PA03
- * Signal OUT: PA02
+ * ADC Pin: PA03
+ * DAC Pin: PA02
  */
 
 #include "sam.h"
