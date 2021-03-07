@@ -8,6 +8,6 @@ ASF is not the best thing out there, so for people looking to make their own dri
 
 I am open to take community contributions, if you have working snippets, add some helpfull comments and raise a pull request. 
 
-# Bugs
+# Improvements
 
 All the snippets above are tested standalone with toolchain and device header or with a ASF dumy project. If you find any bugs in the snippets register the bug, I will try to fix it.
