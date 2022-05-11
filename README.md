@@ -2,7 +2,7 @@
 
 Repo contains baremetal snippets for SAM D and SAM L series microcontrollers. I wrote most the snippets while learning SAM series MCUs from Atmel/Microchip. 
 
-ASF is not the best thing out there, so for people looking to make their own drivers this should be very helpful.
+ASF is not the best thing for all applications, so for people looking to make their own drivers this should be very helpful.
 
 ## Contributions 
 
